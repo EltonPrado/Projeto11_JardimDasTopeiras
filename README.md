@@ -6,7 +6,7 @@
 
 O projeto foi desenvolvido como desafio do curso Explorer da Rocketseat. 
 
-O desafio desse projeto foi a criação de uma animação simples de toupeiras, onde elas entram e saem de seus buracos. <br>
+O desafio desse projeto consiste na criação de uma animação simples de toupeiras, onde elas entram e saem de seus buracos. <br>
 
 <p align="center">
   <img alt="projeto Habits" src=".github/preview.jpg" width="100%">
