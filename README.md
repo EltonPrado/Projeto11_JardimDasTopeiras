@@ -16,7 +16,7 @@ O desafio desse projeto foi a criação de uma animação simples de toupeiras, 
 
 Quer conferir como ficou o Jardim das Toupeiras? 
 
-[Visite o projeto online](https://eltonprado.github.io/BoraCodar_Desafio08_Dashboard/)
+[Visite o projeto online](https://eltonprado.github.io/Projeto11_JardimDasTopeiras/)
 
 <br>
 
